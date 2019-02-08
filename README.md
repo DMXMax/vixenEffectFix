@@ -5,7 +5,7 @@ discrepancy with Falcon Player 2.6
 As of Vixen 3.5u4 (build 819) sequences exported in the Falcon Pi Player 2.x format produces a file that is off by one with 
 what FPP is expecting. The result the sequence being noticably off-color from when the sequence itself is played. 
 
-It is very likely that future builds of FPP or Vixen will address this issue. In the meantime, I built this nifty golan app to 
+It is very likely that future builds of FPP or Vixen will address this issue. In the meantime, I built this nifty golang app to 
 fix the file.
 
 Usage: 
