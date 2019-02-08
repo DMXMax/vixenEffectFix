@@ -9,4 +9,4 @@ It is very likely that future builds of FPP or Vixen will address this issue. In
 fix the file.
 
 Usage: 
-vixfix -infile <infile name> -outfile <outfile name>
+vixfix -infile "infile name" -outfile "outfile name"
