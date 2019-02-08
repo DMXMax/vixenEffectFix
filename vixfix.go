@@ -15,7 +15,7 @@ import (
     optr := flag.String("outfile", "out.eseq", "file path to write")
     flag.Parse()
     
-    //Open the Input file, report an error if needed
+    //Open the Input file, report an error if needed 
     f,err := os.Open(*fptr)
 
     if err != nil{
